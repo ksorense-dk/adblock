@@ -1,0 +1,24 @@
+@@||jyllands-posten.dk/js/ads.js
+@@||aka-cdn-ns.adtech.de/dt/common/DAC.js
+@@||ekstrabladet.dk/template/v5-6/shared/js/modules/usercommunication/checkIfBlocked.js
+ekstrabladet.dk###fnOverlayStuff
+ekstrabladet.dk##.lightOverlay.darkOverlay
+ekstrabladet.dk##.teaser-bg.line
+ekstrabladet.dk##.ekstra-header.teaser-top-bg.p-relative.pad-large-b
+ekstrabladet.dk##.teaser-bar
+seoghoer.dk###nsqbox
+seoghoer.dk##.nsqlayer
+seoghoer.dk##.nsqpage.nsqfill
+nasdaq.com###adBlockMsg
+nasdaq.com##.lightbox.visible
+politiken.dk##.abb-container.modal-adblockblocker__content.nocontent
+facebook.com###u_0_2e
+facebook.com##._4-u2._5hnd._4-u8
+ekstrabladet.dk##.ta-center
+ekstrabladet.dk##.color-white
+ekstrabladet.dk##div[style*="rgb(0, 0, 0)"]
+politiken.dk/static/Content/js/vendor/*
+allercdn.net/randomurl.js
+ing.dk##div[class*=".adblock-message-"]
+version2.dk##div[class*=".adblock-message-"]
+
