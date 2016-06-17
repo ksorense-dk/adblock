@@ -22,8 +22,8 @@ politiken.dk##.abb-container.modal-adblockblocker__content.nocontent
 politiken.dk/static/Content/js/vendor/*
 
 ! ingenioeren/v2
-ing.dk##div[class*=".adblock-message-"]
-version2.dk##div[class*=".adblock-message-"]
+ing.dk##div[class*="adblock-message-"]
+version2.dk##div[class*="adblock-message-"]
 
 ! berlingske
 b.dk##iframe[src="javascript:\"<html><body style='background:transparent'</body></html>\""]
