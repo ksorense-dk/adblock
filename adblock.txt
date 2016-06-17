@@ -33,5 +33,8 @@ facebook.com##div[style*="display: block;"]
 facebook.com##div[style*="height"][style*="background-color:"][style*="rgb"]
 facebook.com##div[role="banner"]
 
+! pintrest
+pintrest.com###div[class*="web-inspector-hide-"]
+
 ! diverse
 @@||aka-cdn-ns.adtech.de/dt/common/DAC.js
