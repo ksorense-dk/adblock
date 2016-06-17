@@ -1,19 +1,37 @@
+! jyllandsposten
 @@||jyllands-posten.dk/js/ads.js
-@@||aka-cdn-ns.adtech.de/dt/common/DAC.js
+
+! ekstrabladet
 @@||ekstrabladet.dk/template/v5-6/shared/js/modules/usercommunication/checkIfBlocked.js
-nasdaq.com###adBlockMsg
-nasdaq.com##.lightbox.visible
-seoghoer.dk###nsqbox
 ekstrabladet.dk##div[style*="rgb(0, 0, 0)"]
-seoghoer.dk##.nsqlayer
-seoghoer.dk##.nsqpage.nsqfill
-politiken.dk##.abb-container.modal-adblockblocker__content.nocontent
 ekstrabladet.dk##.ta-center
 ekstrabladet.dk##.color-white
+
+! nasdaq
+nasdaq.com###adBlockMsg
+nasdaq.com##.lightbox.visible
+
+! se og hoer
+seoghoer.dk###nsqbox
+seoghoer.dk##.nsqlayer
+seoghoer.dk##.nsqpage.nsqfill
+allercdn.net/randomurl.js
+
+! politiken
+politiken.dk##.abb-container.modal-adblockblocker__content.nocontent
+politiken.dk/static/Content/js/vendor/*
+
+! ingenioeren/v2
 ing.dk##div[class*=".adblock-message-"]
 version2.dk##div[class*=".adblock-message-"]
+
+! berlingske
 b.dk##iframe[src="javascript:\"<html><body style='background:transparent'</body></html>\""]
-politiken.dk/static/Content/js/vendor/*
-allercdn.net/randomurl.js
+
+! facebook
+facebook.com##div[style*="display: block;"]
+facebook.com##div[style*="height"][style*="background-color:"][style*="rgb"]
 facebook.com##div[role="banner"]
 
+! diverse
+@@||aka-cdn-ns.adtech.de/dt/common/DAC.js
