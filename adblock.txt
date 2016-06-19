@@ -27,6 +27,7 @@ version2.dk##div[class*="adblock-message-"]
 
 ! berlingske
 b.dk##iframe[src="javascript:\"<html><body style='background:transparent'</body></html>\""]
+b.dk##div[style*="display: block;"]
 
 ! facebook
 facebook.com##div[style*="display: block;"]
