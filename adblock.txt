@@ -24,7 +24,7 @@ allercdn.net/randomurl.js
 ! politiken
 politiken.dk##.abb-container.modal-adblockblocker__content.nocontent
 politiken.dk/static/Content/js/vendor/*the-modal*
-politiken.dk##div[class="modal--adblockblocker"]
+politiken.dk##div[class*="modal--adblockblocker"]
 
 ! ingenioeren/v2
 ing.dk##div[class*="adblock-message-"]
