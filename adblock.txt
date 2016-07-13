@@ -1,5 +1,6 @@
 ! Title: Dansk uBlock liste
 ! Expires: 1 days
+!
 
 ! jyllandsposten
 @@||jyllands-posten.dk/js/ads.js
